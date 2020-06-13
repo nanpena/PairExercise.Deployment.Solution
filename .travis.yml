@@ -22,7 +22,7 @@ deploy: # see README for details on these keys
   skip_cleanup: true
   provider: heroku
   # app should be your heroku app name; see README
-  app: https://first-app-p-pena.herokuapp.com/
+  app: first-app-p-pena
   # the secure key indicates an encrypted value; see README
   api_key:
     secure: tYvwPxH2r27/8z6ByjN7EzWbGo5K+P4VdbvwICdRRh/WsXb8VzVbEjYgFN4vxLFceqbLnZH3d6iy5lB98wq/WkwEVhaZSZ78LZRm5iTwfFZEtYBY4UGtWlmHrNQnzG4qLO2/hrk5q272rzAfGl3AuKVW6rvfm46i/SqIlaFL6jgJD12kzXyk7PjtnItniTKTlTRsTSfk+94dioCK2LvJjo6T9jkppq0YUV3U3jRwsLDEzdwjZVLn4dtCqcRSOrEkieipfDxvp5ngJ7T2eNSovw83QuhS3Mh9pQmGQ5XPNfGr1VFU53TImYO7+VUOYLgT2BGGS87jkFN4iioTn1QKzJHirDrJlhdinb06+esnPoLG/zXMG1+u/0X9//yyKkwFFCqzPb6GkBabMKQ07VJcsSm82rLc0uyt14caiimUOK7A+hBXL3UOCO3AoNHEimWM+vLzk6fOmlXpW1Jn2vcVUrdLw82rI0MprE8D+xCn8e12PKkHIQRNn9sb8EQwukMvHddGdwV9KbDcXiqejm70cASWdvqSTgUcdcKG9MbVk2RKzAuLUNHbAcLhHpQAvCUVCmI+jMF9Yy3JOqYMPPy9XLAzU3kV4nS59tELEhVUHOOUpAYuqQ3U6i9L71uMrJ3nvAFMpn3CfVgGMdGBR2RUYDhyNTEf50o4v2li1N5R4ZM=
